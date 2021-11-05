@@ -66,7 +66,7 @@ calli.on("message", message => {
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("تــــــۆکــیــن لێرە دانێ")
+calli.login("ODc2MjMxNzEyMjk0NzAzMTQ0.YRhEXw.VF7y8IHUGnduqdgCWG8HtR_nXeQ")
 ///////////////////////////////////////////////////////////////////////////////
 const FiiXenabled  = "";
 const FiiXdisabled = "";
@@ -201,7 +201,7 @@ calli.on("message", async message => {
     let help = new Discord.MessageEmbed()
       .setColor(callicolor)
       .setDescription(`
-[Click here](https://discord.com/api/oauth2/authorize?client_id=${calli.user.id}&permissions=8&scope=bot) **to invite the bot.**
+[
 `);
     message.channel.send(help);
   }
