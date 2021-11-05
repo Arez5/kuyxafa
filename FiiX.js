@@ -57,9 +57,7 @@ calli.on("message", message => {
       .setImage(`https://media.discordapp.net/attachments/829751738717306920/835146132023279616/image0.png`)
       .setDescription(`
 👑 OwnerCode 
-(ᖴ𝗂𝗂᙭#9480,AMxSakran^#3799)
-🤖 Securitybots 
-(Anti Vandalism#6064)
+ara
       `)
       .setThumbnail(`https://media.discordapp.net/attachments/829751738717306920/835145114519208017/image0.gif`)
     message.channel.send({ embed });
@@ -128,8 +126,7 @@ FiiX.on("message", async message => {
 \`${prefix}settings\`
 \`${prefix}punishment\`
 
-**Links**
-[Support](https://discord.gg/9qBvN4DhT5) - [Invite](https://discord.com/api/oauth2/authorize?client_id=866215659092180992&permissions=8&scope=bot) - [Website](/)
+
       
       
       `);
